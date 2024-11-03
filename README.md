@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mppassos&label=Profile%20views&color=0e75b6&style=flat" alt="mppassos" /> </p>
 
-- Estou atualmente trabalhando em [Portifolio](https://github.com/mppassos/Portifolio)
-
 - 🌱 Estou atualmente aprendendo sobre **AWS Cloud**
 
 - 👯 Estou buscando colaborar em [my-ecommerce-app](https://github.com/mppassos/my-ecommerce-app)
