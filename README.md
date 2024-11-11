@@ -11,9 +11,7 @@
 
 - 🌱 Estou atualmente aprendendo sobre **AWS Cloud**
 
-- 👯 Estou buscando colaborar em [my-ecommerce-app](https://github.com/mppassos/my-ecommerce-app)
-
-- ⚡ Curiosidade **sempre busco trazer um sorriso ao rosto das pessoas!**
+- ⚡ Curiosidade: **sempre busco trazer um sorriso ao rosto das pessoas!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
