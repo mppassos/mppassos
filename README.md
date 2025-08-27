@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá 👋, Eu sou Matheus Oliveira</h1>
-<h3 align="center">Desenvolvedor | Cloud Enthusiast | Compartilhando conhecimento</h3>
+<h3 align="center">Desenvolvedor | Cloud Enthusiast | Ciber Security</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FoenF6aGc2bXNrczk0eHhreHoxbXZlbmdjMW5qdzdycDBvaDlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp">
 
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mppassos&label=Profile%20views&color=0e75b6&style=flat" alt="mppassos" /> </p>
 
 - 🌱 Atualmente aprofundando meus conhecimentos em **AWS Cloud, DevOps e Arquitetura de Sistemas**
-- 💡 Interesses: Cloud Computing, Desenvolvimento Full Stack, Automação
+- 💡 Interesses: Cloud Computing, Desenvolvimento Full Stack, Automação , Ciber Security
 - ⚡ Curiosidade: **Gosto de trazer soluções criativas!**
 
 ## 🛠 Habilidades Técnicas
