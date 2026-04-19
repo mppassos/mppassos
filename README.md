@@ -1,9 +1,8 @@
-<!-- Banner Profissional -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Matheus%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20|%20DevOps%20|%20Cybersecurity&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-<!-- Badges de Destaque -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-667eea?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Passion-Cybersecurity-764ba2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
