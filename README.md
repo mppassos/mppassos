@@ -44,7 +44,7 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
 - 🚀 **6+ Years of Impact** - From building mission-critical government systems at PRODEB to architecting cloud-native solutions
 - 🔐 **Security-Minded Developer** - Certified by Cisco and FEBRABAN, I embed security into every layer of the stack
 - 🔄 **Full-Cycle Engineer** - I don't just write code. I design, test, deploy, monitor, and optimize.
-- 💡 **Results-Driven** - Automated an 8-hour process down to 15 minutes | Reduced query times from 3+ minutes to ~1 minute
+- 💡 **Results-Driven** - Automated an 8-hour process down to 15 minutes | Reduced query times from 3+ minutes to +- 1 minute
 - 📚 **Continuous Learner** - 480 hours of intensive AWS training, always exploring the next edge
 
 ---
