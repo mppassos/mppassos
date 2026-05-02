@@ -187,12 +187,12 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
 
 > **Mid-Level Software Developer** | *PRODEB – State Government of Bahia* | Jan 2021 – Mar 2023
 > - Maintained and enhanced critical government systems (PLAC, SIAG, SEIA, SAEB), serving thousands of public sector users
-> - Optimized database queries in the PLAC Project, refactoring data access with Hibernate and cutting response time from 3+ minutes to ~1 minute
+> - Optimized database queries in the PLAC Project, refactoring data access with Hibernate and cutting response time from 3+ minutes to 1 minute
 > - Led migration of legacy JSF components to RESTful APIs with Spring Boot, enabling integration with modern React/Vue.js front-ends
 
 > **Junior Software Developer** | *CIBERIAN (SEFAZ)* | Mar 2019 – Jul 2020
 > - Developed complex PL/SQL procedures (Oracle) for the State Treasury Department, automating data consolidation and tax report generation
-> - Automated an 8-hour manual process to ~15 scheduled minutes, completely eliminating data inconsistencies
+> - Automated an 8-hour manual process to 15 scheduled minutes, completely eliminating data inconsistencies
 
 <p align="center">
   <i>📄 Download my full CV: <a href="https://github.com/mppassos/mppassos/blob/main/MATHEUS_OLIVEIRA_ENGENHEIRO_SOFTWARE_JAVA.pdf">English PDF</a></i>
