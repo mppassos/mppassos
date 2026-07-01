@@ -111,7 +111,21 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://github.com/mppassos/leiturai-serverless-credit-analysis">
+        <img src="https://img.shields.io/badge/☁️_LeiturAI-AWS_Serverless-FF9900?style=for-the-badge" alt="LeiturAI - AWS Serverless"/>
+      </a>
+      <br><br>
+      <b>LeiturAI - Análise de Crédito</b>
+      <br>
+      <sub>Plataforma serverless para análise inteligente de documentos com AWS Lambda, API Gateway, EventBridge e DynamoDB.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/☁️_AWS-Cloud-FF9900?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Serverless-Lambda-FF9900?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DynamoDB-NoSQL-4053D6?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/mppassos/ziti-zero-trust-demo">
         <img src="https://img.shields.io/badge/🔐_Zero_Trust_Demo-OpenZiti-667eea?style=for-the-badge" alt="Zero Trust"/>
       </a>
@@ -123,7 +137,7 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
       <img src="https://img.shields.io/badge/Zero_Trust-Architecture-764ba2?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/mppassos/mata60-extensao-ufba">
         <img src="https://img.shields.io/badge/🎓_University_System-UFBA-667eea?style=for-the-badge" alt="UFBA Extension"/>
       </a>
@@ -137,7 +151,7 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/mppassos/my-ecommerce-app">
         <img src="https://img.shields.io/badge/🛒_E--Commerce_App-JavaScript-F7DF1E?style=for-the-badge" alt="E-Commerce"/>
       </a>
@@ -149,19 +163,21 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
       <img src="https://img.shields.io/badge/JavaScript-Full_Stack-F7DF1E?style=flat-square"/>
       <img src="https://img.shields.io/badge/License-GPL_v3-blue?style=flat-square"/>
     </td>
-    <td align="center" width="50%">
-  <a href="https://github.com/mppassos/aws-demo">
-    <img src="https://img.shields.io/badge/☁️_AWS_Demo-Cloud-FF9900?style=for-the-badge" alt="AWS Demo"/>
-  </a>
-  <br><br>
-  <b>AWS Demo</b>
-  <br>
-  <sub>This project was developed as part of the preparation for a Java developer position with a focus on AWS.</sub>
-  <br><br>
-  <img src="https://img.shields.io/badge/☁️_AWS-Cloud-FF9900?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Serverless-Lambda-FF9900?style=flat-square"/>
-</td>
+    <td align="center" width="33%">
+      <a href="https://github.com/mppassos/aws-demo">
+        <img src="https://img.shields.io/badge/☁️_AWS_Demo-Cloud-FF9900?style=for-the-badge" alt="AWS Demo"/>
+      </a>
+      <br><br>
+      <b>AWS Demo</b>
+      <br>
+      <sub>This project was developed as part of the preparation for a Java developer position with a focus on AWS.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/☁️_AWS-Cloud-FF9900?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Serverless-Lambda-FF9900?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+    </td>
   </tr>
 </table>
 
