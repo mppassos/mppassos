@@ -150,17 +150,18 @@ philosophy: "Build systems that scale, secure what matters, and automate everyth
       <img src="https://img.shields.io/badge/License-GPL_v3-blue?style=flat-square"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mppassos/DataScience">
-        <img src="https://img.shields.io/badge/📊_Data_Science-Python-3776AB?style=for-the-badge" alt="Data Science"/>
-      </a>
-      <br><br>
-      <b>DataScience</b>
-      <br>
-      <sub>Data analysis and machine learning studies using Pandas, NumPy, Matplotlib, and Scikit-learn.</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ML-Learning-764ba2?style=flat-square"/>
-    </td>
+  <a href="https://github.com/mppassos/aws-demo">
+    <img src="https://img.shields.io/badge/☁️_AWS_Demo-Cloud-FF9900?style=for-the-badge" alt="AWS Demo"/>
+  </a>
+  <br><br>
+  <b>AWS Demo</b>
+  <br>
+  <sub>This project was developed as part of the preparation for a Java developer position with a focus on AWS.</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/☁️_AWS-Cloud-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Serverless-Lambda-FF9900?style=flat-square"/>
+</td>
   </tr>
 </table>
 
